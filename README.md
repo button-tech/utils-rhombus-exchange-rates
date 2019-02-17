@@ -10,7 +10,7 @@ DAI/USD: https://rinkeby.etherscan.io/address/0xa8A817211e4c763e7b1cf8531bC1528f
 USD/BTC: https://rinkeby.etherscan.io/address/0x3a4d9066F186C7Af2b2bF08C1d9419B45bdd1Faa
 
 # Swagger
-[Swagger Here](http://ethergram.tk:8080/swagger/index.html)
+[Swagger Here](http://ethergram.tk/rates/swagger)
 
 # Example
 http://ethergram.tk:8080/rate/usd-btc 
