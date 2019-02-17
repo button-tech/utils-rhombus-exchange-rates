@@ -14,6 +14,7 @@ USD/BTC: https://rinkeby.etherscan.io/address/0x3a4d9066F186C7Af2b2bF08C1d9419B4
 
 # Example
 http://ethergram.tk:8080/rate/usd-btc 
+(Support to usd-eth eth-usd usd-xdai xdai-usd dai-usd usd-dai usd-btc btc-usd)
 
 # License 
 MIT
